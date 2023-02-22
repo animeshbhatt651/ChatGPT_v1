@@ -1,2 +1,2 @@
-openai
-gradio
+openai==0.26.5
+gradio==3.19.1
